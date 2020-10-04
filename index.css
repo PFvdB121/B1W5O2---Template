@@ -1,0 +1,75 @@
+div.Afbeelding {
+	background-image: url(voorbeeld/header_bg.jpg);
+	padding-top: 230px;
+	padding-right: auto;
+	padding-bottom: 437px;
+	padding-left: auto;
+}
+div.Boven{
+background-color: white;
+}
+i{
+	font-family: 'Roboto', sans-serif;
+}
+#White{
+	color: rgba(255, 255, 255, 0.8);
+}
+#Grey{
+	color: grey;
+}
+.Logo{
+	padding-left: 37%;
+}
+.FontAwesome{
+	margin-top: 60px;
+	margin-left: 375px;
+}
+.Boven{
+	margin-left: 84.5% 
+}
+.Links{
+	margin-left: 375px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.FEATURES{
+	margin-left: 60px;
+}
+.PAGES{
+	margin-left: 65px;
+}
+.PORTFOLIO{
+	margin-left: 59px;
+}
+.BLOG{
+	margin-left: 65px;
+}
+.CONTACT{
+	margin-left: 60px;
+}
+.Features{
+	margin-left: 65px;
+}
+.Pages{
+	margin-left: 75px;
+}
+.Portfolio{
+	margin-left: 80px;
+}
+.Blog{
+	margin-left: 80px;
+}
+.Contact{
+	margin-left: 65px;
+}
+p{
+	color: white;
+	text-align: center;
+}
+img.AfbeeldingenPortfolio{
+	 height: 40%;
+	 width: 40%;
+	 margin-left: 30%;
+}
